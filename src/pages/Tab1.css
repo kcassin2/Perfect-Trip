@@ -1,3 +1,42 @@
 ion-content ion-toolbar {
-  --background: translucent;
+  --background: #54d61c;
+}
+body {
+  background-color: #ee0e0e;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+  
+  justify-content: center;
+  display: inline-block;
+  
+}
+ion-card{
+  display:inline-block;
+}
+
+ion-button{
+  
+
+display: inline-block;
+}
+
+
+ion-title{
+  font-size: 50px;
+}
+ion-avatar{
+
+justify-content: center
+
+
+}
+ion-toolbar{
+
+--background: #B84853
+
+
+
+
 }
